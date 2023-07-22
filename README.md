@@ -2,13 +2,14 @@
 
 This repository contains a simple demo project showcasing various frontend development concepts such as creating components, using the useState hook, passing data with props, lifting data up, and implementing conditional content. The project is designed to create a menu app where users can explore different menu items and filter them based on categories.
 
-![App Logo](public/logo.png)
+![App Logo](public/images/react.svg)
 
 <!-- Add CSS Style for the Header Image -->
 <style>
   .header-image {
     max-width: 200px; /* Set the desired width here */
     height: auto;
+    text-align: center;
   }
 </style>
 
@@ -18,7 +19,7 @@ The Menu app allows users to view a list of menu items along with their respecti
 
 <!-- Display the Header Image -->
 <p align="center">
-  <img class="header-image" src="public/header-image.jpg" alt="Header Image">
+  <img class="header-image" src="https://res.cloudinary.com/tawfeer/image/upload/v1690062789/menuproject_bxfd2s.png" alt="Header Image">
 </p>
 
 ## Figma Design
@@ -135,8 +136,6 @@ Let's work together to make the Menu app even better for everyone! Thank you for
 
 ## License
 
-
-
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgements
@@ -146,4 +145,3 @@ We extend our heartfelt gratitude to all contributors and open-source projects t
 ## Contact
 
 If you have any questions, feedback, or suggestions, please feel free to reach out to us at [msmt0452@gmail.com](mailto:msmt0452@gmail.com). We value your input and would love to hear from you!
-
