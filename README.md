@@ -7,7 +7,7 @@ This repository contains a simple demo project showcasing various frontend devel
 <!-- Add CSS Style for the Header Image -->
 <style>
   .header-image {
-    max-width: 200px; 
+    max-width: 200px; /* Set the desired width here */
     height: auto;
   }
 </style>
@@ -32,10 +32,9 @@ To run the Menu app on your local machine, follow the steps below:
 1. Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/menu-app.git
-cd menu-app
+git clone https://github.com/Mohamed-Esmat/menu-demo.git
+cd menu-demo
 ```
-````
 
 2. Install the required dependencies.
 
@@ -135,6 +134,8 @@ We welcome and appreciate contributions to improve the Menu app! Contributing to
 Let's work together to make the Menu app even better for everyone! Thank you for contributing!
 
 ## License
+
+
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
