@@ -5,14 +5,15 @@ This repository contains a simple demo project showcasing various frontend devel
 ![App Logo](public/images/react.svg)
 
 <!-- Add CSS Style for the Header Image -->
+```
 <style>
   .header-image {
-    max-width: 200px; /* Set the desired width here */
+    max-width: 200px;
     height: auto;
     text-align: center;
   }
 </style>
-
+```
 ## Project Overview
 
 The Menu app allows users to view a list of menu items along with their respective images, titles, prices, and descriptions. Users can filter the menu items based on unique categories and view only the items that belong to a selected category. The application is built using React, and it demonstrates how to manage state, handle user interactions, and dynamically render components.
